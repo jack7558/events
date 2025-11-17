@@ -86656,7 +86656,7 @@ $0(){this.a.x="\uc774\ubca4\ud2b82"},
 $S:0}
 A.KR.prototype={
 P(a){var s=null
-return new A.z1(new A.yC(s),"\ub79c\ub529\ud398\uc774\uc9c0",A.ub(s,s,B.k6,s),s)}}
+return new A.z1(new A.yC(s),"\ud2b9\ubcc4\uc774\ubca4\ud2b8",A.ub(s,s,B.k6,s),s)}}
 A.ape.prototype={
 $0(){return A.apc()},
 $S:0}
